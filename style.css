@@ -30,8 +30,12 @@ header {
   color: aliceblue;
 }
 
-.modal-body img {
-  width: 10rem;
+.modal-bottle-img {
+  width: 14rem;
+}
+
+.compo-img {
+  width: 6rem;
 }
 
 .modal-body p {
