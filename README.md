@@ -1,2 +1,2 @@
 # Blin-Dezautez
-Champagne Bin website responsive
+Champagne Blin website responsive
