@@ -12,7 +12,9 @@ header {
 
 section {
   font-size: 1.5rem;
+  text-align: center;
   color: antiquewhite;
+  margin: 15px;
 }
 
 p {
@@ -22,6 +24,7 @@ p {
 .intro {
   font-size: 1rem;
   color: aliceblue;
+  margin: 15px;
 }
 .champagne-cards {
   display: flex;
