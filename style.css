@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+header img {
+  width: 50%;
+}
+
+header {
+  text-align: center;
+}
+
+.intro {
+  font-size: 1rem;
+  color: aliceblue;
+}
+.champagne-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: black;
+  width: 8rem;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1rem;
+  color: aliceblue;
+}
+
+.modal-body img {
+  width: 10rem;
+}
+
+.modal-body p {
+  font-size: 0.8rem;
+}
