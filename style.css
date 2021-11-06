@@ -10,6 +10,15 @@ header {
   text-align: center;
 }
 
+section {
+  font-size: 1.5rem;
+  color: antiquewhite;
+}
+
+p {
+  text-justify: inter-word;
+}
+
 .intro {
   font-size: 1rem;
   color: aliceblue;
@@ -17,6 +26,7 @@ header {
 .champagne-cards {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card {
@@ -31,11 +41,11 @@ header {
 }
 
 .modal-bottle-img {
-  width: 14rem;
+  width: 12rem;
 }
 
 .compo-img {
-  width: 6rem;
+  width: 5rem;
 }
 
 .modal-body p {
