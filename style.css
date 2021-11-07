@@ -57,6 +57,10 @@ p {
   font-size: 0.8rem;
 }
 
+.img-ratafia-modal {
+  width: 11em;
+}
+
 iframe {
   width: 70%;
   height: 90%;
