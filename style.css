@@ -4,6 +4,7 @@ body {
 
 header img {
   width: 50%;
+  padding: 1.5em;
 }
 
 header {
@@ -19,6 +20,7 @@ section {
 
 p {
   text-justify: inter-word;
+  font-size: 0.8rem;
 }
 
 .intro {
@@ -53,4 +55,9 @@ p {
 
 .modal-body p {
   font-size: 0.8rem;
+}
+
+iframe {
+  width: 70%;
+  height: 90%;
 }
