@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+
+header img {
+  width: 50%;
+  padding: 1.5em;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  font-size: 1.5rem;
+  text-align: center;
+  color: antiquewhite;
+  margin: 15px;
+}
+
+p {
+  text-justify: inter-word;
+  font-size: 0.8rem;
+}
+
+.intro {
+  font-size: 1rem;
+  color: aliceblue;
+  margin: 15px;
+}
+.champagne-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: black;
+  width: 8rem;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1rem;
+  color: aliceblue;
+}
+
+.modal-bottle-img {
+  width: 12rem;
+}
+
+.compo-img {
+  width: 5rem;
+}
+
+.modal-body p {
+  font-size: 0.8rem;
+}
+
+.img-ratafia-modal {
+  width: 11em;
+}
+
+iframe {
+  width: 70%;
+  height: 90%;
+}
